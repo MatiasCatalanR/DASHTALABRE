@@ -1,4 +1,4 @@
 dash==1.21.0
 plotly==5.3.1
 gunicorn==20.1.0
-werkzeug==2.1.2
+werkzeug==2.0.5
