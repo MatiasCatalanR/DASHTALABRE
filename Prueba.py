@@ -4,7 +4,7 @@ import dash_html_components as html
 import plotly.express as px
 
 app = dash.Dash(__name__)
-
+server = app.server
 # Datos para el gráfico
 data = px.data.iris()
 
